@@ -1,2 +1,42 @@
 ## Files for a Minecraft World
 This exsits to for the Minecraft Slideshow mod
+
+# Credits
+> This list has not been fully completed yet
+
+- US Signs: By Federal Highway Administration - MUTCD - <a rel="nofollow" class="external free" href="http://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part5.pdf">http://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part5.pdf</a>, Public Domain, from [Road signs in the United States, Wikipedia](https://en.wikipedia.org/wiki/Road_signs_in_the_United_States)
+- US Signs - all images used or modifyed:
+    - ['STOP Sign' /Sign/road/stop.png](https://en.wikipedia.org/wiki/File:MUTCD_R1-1.svg)
+    - ['NORIGHT Sign' /Sign/road/noright.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-1.svg)
+    - ['NOLEFT Sign' /Sign/road/noleft.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-2.svg)
+    - ['NORETURN' Sign /Sign/road/noreturn.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-4.svg)
+    - ['NOTFORWARDS' Sign /Sign/road/notforwards.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-27.svg)
+    - ['right_only' Orignal Resource Sign /Sign/road/right_only.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-5R.svg)
+    - ['left_only' Orignal Resource Sign /Sign/road/left_only.png](http://en.wikipedia.org/wiki/File:MUTCD_R3-5L.svg)
+    - ['left_only' Orignal Resource Sign /Sign/road/forwards_only.png](https://en.wikipedia.org/wiki/File:MUTCD_R3-5a.svg)
+    - ['wrong_way' Sign /Sign/road/wrong_way.png](https://en.wikipedia.org/wiki/File:MUTCD_R5-1a.svg)
+    - ['DONOTENTER' Sign /Sign/road/donotenter.png](https://en.wikipedia.org/wiki/File:MUTCD_R5-1.svg)
+    - ['RAILREPORT' Sign /Sign/road/railreport.png](https://en.wikipedia.org/wiki/File:MUTCD_I-13_(Alternate_Legend).svg)
+    - ['RAILREPORT' Sign /Sign/road/railreport.png](https://en.wikipedia.org/wiki/File:MUTCD_I-13_(Alternate_Legend).svg)
+    - ['devide_hwy' Sign /Sign/road/devide_hwy.png](https://en.wikipedia.org/wiki/File:MUTCD_R6-3.svg)
+    - ['50_speedlim' Sign /Sign/road/50_speedlim.png](https://en.wikipedia.org/wiki/File:MUTCD_R2-1.svg)
+    - ['night45' Sign /Sign/road/night45.png](https://en.wikipedia.org/wiki/File:MUTCD_R2-3.svg)
+    - ['YEILD' Sign /Sign/road/yeild.png](https://en.wikipedia.org/wiki/File:MUTCD_R1-2.svg)
+    - ['ONEWAYLEFT' Sign /Sign/road/onewayleft.png](https://en.wikipedia.org/wiki/File:MUTCD_R6-1L.svg)
+    - ['ONEWAYRIGHT' Sign /Sign/road/onewayright.png](https://en.wikipedia.org/wiki/File:MUTCD_R6-1R.svg)
+    - ['NOPARK' Sign /Sign/road/nopark.png](https://en.wikipedia.org/wiki/File:MUTCD_R8-3.svg)
+    - ['DONOTDRIVEONTRACKS' Sign /Sign/road/donotdriveontracks.png](https://en.wikipedia.org/wiki/File:MUTCD_R15-6a.svg)
+    - ['TRFLAHEAD' Sign /Sign/road/trflahead.png](https://en.wikipedia.org/wiki/File:MUTCD_W3-3.svg)
+    - ['RIGHT_LANEENDS' Sign /Sign/road/right_laneends.png](https://en.wikipedia.org/wiki/File:MUTCD_W4-2R.svg)
+    - ['LEFT_LANEENDS' Sign /Sign/road/left_laneends.png](https://en.wikipedia.org/wiki/File:MUTCD_W4-2L.svg)
+    - ['RHT_LANEADD' Sign /Sign/road/rht_laneadd.png](https://en.wikipedia.org/wiki/File:MUTCD_W4-3R.svg)
+    - ['LHT_LANEADD' Sign /Sign/road/lht_laneadd.png](https://en.wikipedia.org/wiki/File:MUTCD_W4-3L.svg)
+    - ['RAILROADCROSSINGAHEAD' Sign /Sign/road/railroadcrossingahead.png](https://en.wikipedia.org/wiki/File:MUTCD_W10-1.svg)   
+    - ['NOPASSINGZONE' Sign /Sign/road/nopassingzone.png](https://en.wikipedia.org/wiki/File:MUTCD_W14-3.svg)
+    - ['DEADEND' Sign /Sign/road/deadend.png](https://en.wikipedia.org/wiki/File:MUTCD_W14-1.svg)
+    - ['NOOUTLET' Sign /Sign/road/nooutlet.png](https://en.wikipedia.org/wiki/File:MUTCD_W14-2.svg)
+    - ['EXIT' Sign /Sign/highway/exit.png](https://en.wikipedia.org/wiki/File:MUTCD_E5-1.svg)
+    - ['EXITNUMBER' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E1-5aP.svg)
+    - ['EXITNAME' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E1-3.svg)
+    - ['EXITNAME2' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E1-2.svg)
+    - ['EXITONLY' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E11-1d.svg)
