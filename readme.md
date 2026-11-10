@@ -40,3 +40,4 @@ This exsits to for the Minecraft Slideshow mod
     - ['EXITNAME' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E1-3.svg)
     - ['EXITNAME2' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E1-2.svg)
     - ['EXITONLY' Sign (included in images in /Sign/highway)](https://en.wikipedia.org/wiki/File:MUTCD_E11-1d.svg)
+    - ['' Sign (included in inmages /sign/road/)](https://en.wikipedia.org/wiki/File:MUTCD_W4-3L.svg)
